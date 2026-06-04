@@ -18,7 +18,7 @@ export default function Navbar() {
             to="/dashboard"
             className="text-2xl font-bold hover:text-blue-100 transition"
           >
-            🚗 VRS
+            VRS
           </Link>
 
           <div className="hidden md:flex space-x-1">
