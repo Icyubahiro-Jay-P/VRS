@@ -45,25 +45,25 @@ export default function Dashboard() {
           <DashboardCard
             title="Customers"
             link="/customers"
-            icon="👥"
+            icon="Customers"
             color="blue"
           />
           <DashboardCard
             title="Vehicles"
             link="/vehicles"
-            icon="🚗"
+            icon="Vehicles"
             color="green"
           />
           <DashboardCard
             title="Reservations"
             link="/reservations"
-            icon="📅"
+            icon="Reservations"
             color="purple"
           />
           <DashboardCard
             title="Report"
             link="/report"
-            icon="📊"
+            icon="Report"
             color="orange"
           />
         </div>
